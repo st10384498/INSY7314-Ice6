@@ -1,1 +1,1 @@
-# INSY7314-Ice6
+# PhotoSharingApp
